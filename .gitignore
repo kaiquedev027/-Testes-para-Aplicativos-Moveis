@@ -1,0 +1,5 @@
+# Dependencias do Node (geradas pelo "npm install")
+node_modules/
+
+# Logs
+npm-debug.log*

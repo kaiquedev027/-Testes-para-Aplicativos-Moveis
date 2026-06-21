@@ -1,0 +1,21 @@
+{
+  "name": "seminario-testes-mobile",
+  "version": "1.0.0",
+  "description": "Exemplo simples de testes automatizados (Jest) simulando a tela de login de um aplicativo movel.",
+  "main": "src/login.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "keywords": [
+    "testes",
+    "jest",
+    "mobile",
+    "login",
+    "seminario"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
